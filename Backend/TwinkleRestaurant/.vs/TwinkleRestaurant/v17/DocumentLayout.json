@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Migrations\\20240612225422_vinnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TwinkleRestaurant\\Migrations\\20240612225422_vinnn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\repository\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\models\\appsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\models\\appsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\appsdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\appsdbcontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\irepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\irepository\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|c:\\users\\dell\\source\\repos\\twinklerestaurant\\twinklerestaurant\\irepository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66C0B54-3CDF-4FC2-ABB7-1A81206D0952}|TwinkleRestaurant\\TwinkleRestaurant.csproj|solutionrelative:twinklerestaurant\\irepository\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240612225422_vinnn.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Migrations\\20240612225422_vinnn.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Migrations\\20240612225422_vinnn.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Migrations\\20240612225422_vinnn.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Migrations\\20240612225422_vinnn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:54:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\AppsDbContext.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Models\\AppsDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\AppsDbContext.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Models\\AppsDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:35:59.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\Reservation.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:53:12.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Repository\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Repository\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Repository\\ReservationRepository.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Repository\\ReservationRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:34:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\admin.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Models\\admin.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\admin.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Models\\admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:32:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\IRepository\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:29:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Program.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:47:24.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Controllers\\ReservationsController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:35:19.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppsDbContextSeed.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\AppsDbContextSeed.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\AppsDbContextSeed.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\AppsDbContextSeed.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\AppsDbContextSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:40:04.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\TablesController.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Controllers\\TablesController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\TablesController.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Controllers\\TablesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:36:10.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Models\\Table.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\Table.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Models\\Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:53:39.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\appsettings.json",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\appsettings.json",
+              "RelativeToolTip": "TwinkleRestaurant\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T16:34:46.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA3wCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:30:14.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Models\\User.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T07:52:32.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:31:33.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\adminsController.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Controllers\\adminsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Controllers\\adminsController.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Controllers\\adminsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T18:34:36.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "adminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Repository\\adminRepository.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\Repository\\adminRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\Repository\\adminRepository.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\Repository\\adminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:28:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\IRepository\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\IRepository\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\IRepository\\IAdminRepository.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\IRepository\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:24:46.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\IRepository\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "TwinkleRestaurant\\IRepository\\IReservationRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\TwinkleRestaurant\\TwinkleRestaurant\\IRepository\\IReservationRepository.cs",
+              "RelativeToolTip": "TwinkleRestaurant\\IRepository\\IReservationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T17:33:25.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

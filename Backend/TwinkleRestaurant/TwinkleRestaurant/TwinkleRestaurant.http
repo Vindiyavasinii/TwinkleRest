@@ -1,0 +1,6 @@
+@TwinkleRestaurant_HostAddress = http://localhost:5076
+
+GET {{TwinkleRestaurant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
